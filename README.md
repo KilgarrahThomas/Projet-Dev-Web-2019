@@ -1,6 +1,6 @@
 # Projet Dev Web 2019
  
-Projet individuel de site web fictif sur un sujet libre réalisé dans le cadre du cours de Développement web.
+Projet individuel de site web fictif sur un sujet libre réalisé dans le cadre du cours de Développement web, durant la première année d'études.
 
 ## Obligations
 
